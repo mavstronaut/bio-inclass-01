@@ -1,0 +1,52 @@
+.body {
+    background-color: #efeee7;
+    font: serif;
+    color: #333333;
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #333333;
+}
+.h1 {
+    color: #eee;
+    font-size: 28px;
+    margin: 2px;
+    padding: 1px;
+}
+.h2 {
+    font-size: 24px;
+}
+.div {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#main-bio, #contact-info, #bio-image {
+    float: left;
+}
+
+#bio-image {
+    width: 200px;
+    margin: 5px;
+
+}
+
+#main-bio {
+    width: 70%;
+}
+
+#contact-info {
+    width: 30%;
+}
+
+a:link {
+    color:  #d21034;
+}
+a:visited {
+    color:  #d21034;
+}
+
+
+Adjust the line height so it is 1.5 times the size of the font
